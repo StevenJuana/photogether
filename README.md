@@ -12,4 +12,4 @@ Photogether was built with Javascript, HTML, and CSS through Microsoft Live Shar
 
 ## Link to Deployed Website
 
-<a href="photogether-182.firebaseapp.com">link text</a>
+<a href="photogether-182.firebaseapp.com">photogether-182.firebaseapp.com</a>
