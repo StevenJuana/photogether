@@ -11,7 +11,7 @@ Photogether is a web app that allows photographers to post places that they like
 
 ## Video Walkthrough 
 
-<img src='http://g.recordit.co/WKiv8S33aF.gif' width='' alt='Video Walkthrough' />
+<img src='http://g.recordit.co/IEs3kkLKCS.gif' width='' alt='Video Walkthrough' />
 
 
 ## How we built it
