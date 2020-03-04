@@ -11,4 +11,5 @@ Photogether is a web app that allows photographers to post places that they like
 Photogether was built with Javascript, HTML, and CSS through Microsoft Live Share. We used Google Firebase as a large part of our app— using its storage and databases as well as hosting the web app on its servers.
 
 ## Link to Deployed Website
-photogether-182.firebaseapp.com
+
+<a href="photogether-182.firebaseapp.com">link text</a>
